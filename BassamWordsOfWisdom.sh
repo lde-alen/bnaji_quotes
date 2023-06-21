@@ -9,7 +9,7 @@ bnaji_quotes=(
     "Bassam can drown a fish."
     "Bassam can hear sign language."
     "Bassam can judge a book by its cover."
-    "Bassam can kill two Dwayne "The Rock" Jonhson with one bird."
+    "Bassam can kill two Dwayne The Rock Jonhson with one bird."
     "Bassam can lick his elbow."
     "Bassam can make onions cry."
     "Bassam can play the violin with a piano."
