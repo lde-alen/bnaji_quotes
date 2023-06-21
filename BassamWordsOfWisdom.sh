@@ -1,8 +1,8 @@
 # Add bassam quotes here
 bnaji_quotes=(
     "When 911 have an emergency they call Bassam." 
-    "Bassam is the reason why Waldo is hiding."" 
-    "Bassam can speak Braille. 
+    "Bassam is the reason why Waldo is hiding." 
+    "Bassam can speak Braille."
     "Bassam can divide by zero."
     "Bassam can delete the Recycling Bin."
     "Bassam can slam a revolving door."
