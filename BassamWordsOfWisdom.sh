@@ -23,7 +23,7 @@ bnaji_quotes=(
     "Bassam can write a full thesis on a single grain of rice."
     "Bassam can write a novel with his eyes closed."
     "Bassam can write a novel with his toes."
-    "Bassam's email is gmail.@bassam.com ."
+    "Bassam's email is gmail@bassam.com ."
     "If you work hard enough, one day you will be as good as bassam"
     "Bassam played in every Star Wars movie, he was the force"
     "When you ask Bassam what time it is, he says, 'Two seconds till.' After you ask, 'Two seconds to what?' he roundhouse kicks you in the face."
