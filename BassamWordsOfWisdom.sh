@@ -148,6 +148,9 @@ bnaji_quotes=(
     "Assembly language is just Bassam trying to program."
     "Kernel panics are just Bassam trying to reboot."
     "Bassam writes his own compiler."
+    "General artificial intelligence tried to replicate Bassam... it's still trying."
+    "Core dumps are a natural occurence when Bassam is testing your work."
+    "When you inject SQL, SQL is trying to inject Bassam."
     )
 
 RANDOM=$$$(date +%s)
